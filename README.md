@@ -40,8 +40,8 @@
   </style>
 </head>
 <body>
-  <h1>¡Oops!</h1>
-  <p>Has sido redirigido a esta página especialmente diseñada para aquellos que toman decisiones... cuestionables 😅</p>
+  <h1>¡pinche PENDEJO ESTUPIDO DE MIERDA!</h1>
+  <p>SI ENTRASTE TE GUSTA HABIBI PENEPENE PENE A EMILIO LE GUSTA EL PENE</p>
   <button class="button" onclick="window.location.href='https://www.google.com'">Volver al mundo real</button>
 </body>
 </html>
